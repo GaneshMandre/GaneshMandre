@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 - **Key Skills**: Data Cleaning, Visualization, DAX, Reporting  
 
 ## 📂 Featured Projects  
-- [**Excel Sales Dashboard**] - Analyzing sales trends and visualizing data.  
+- [**Excel Sales Dashboard**] - https://github.com/GaneshMandre/Excel-Sales-Analytics -- Analyzing sales trends and visualizing data.  
 - [**Hospitality Performance- Power BI Dashboard**] - https://lnkd.in/gSp6VWkZ --- valuable insights to improve performance
 - [**Business Insight 360-Power BI Dashboard**] -  https://lnkd.in/gVkKYuYu --- data-driven insights to improve decision-making and grow business.
 ## 🎯 Current Focus  
