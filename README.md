@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 
 ## 📂 Featured Projects  
 - [**Excel Sales Dashboard**] - https://github.com/GaneshMandre/Excel-Sales-Analytics -- Analyzing sales trends and visualizing data.  
-- [**Hospitality Performance- Power BI Dashboard**] - https://lnkd.in/gSp6VWkZ --- valuable insights to improve performance
-- [**Business Insight 360-Power BI Dashboard**] -  https://lnkd.in/gVkKYuYu --- data-driven insights to improve decision-making and grow business.
+- [**Hospitality Performance- Power BI Dashboard**] - https://www.linkedin.com/posts/ganesh-m-92071616a_powerbi-dataanalytics-hospitality-activity-7269014190969774081-PB0K?utm_source=share&utm_medium=member_desktop --- valuable insights to improve performance
+- [**Business Insight 360-Power BI Dashboard**] -  https://www.linkedin.com/posts/ganesh-m-92071616a_business-insights-360-power-bi-dashboard-activity-7275172255146332161-a0QR?utm_source=share&utm_medium=member_desktop --- data-driven insights to improve decision-making and grow business.
 ## 🎯 Current Focus  
 - Enhancing my expertise in Power BI and SQL.  
 - Expanding my portfolio with real-world data projects.  
