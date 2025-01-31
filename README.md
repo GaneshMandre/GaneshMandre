@@ -14,9 +14,10 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 - **Key Skills**: Data Cleaning, Visualization, DAX, Reporting  
 
 ## 📂 Featured Projects  
-- [**Excel Sales Dashboard**] - https://github.com/GaneshMandre/Excel-Sales-Analytics -- Analyzing sales trends and visualizing data.  
-- [**Hospitality Performance- Power BI Dashboard**] - https://www.linkedin.com/posts/ganesh-m-92071616a_powerbi-dataanalytics-hospitality-activity-7269014190969774081-PB0K?utm_source=share&utm_medium=member_desktop --- valuable insights to improve performance
-- [**Business Insight 360-Power BI Dashboard**] -  https://www.linkedin.com/posts/ganesh-m-92071616a_business-insights-360-power-bi-dashboard-activity-7275172255146332161-a0QR?utm_source=share&utm_medium=member_desktop --- data-driven insights to improve decision-making and grow business.
+- [**Excel Sales Dashboard**](https://github.com/GaneshMandre/Excel-Sales-Analytics) -- Analyzing sales trends and visualizing data.
+- [**Atlique Grand Hospitality Performance- Power BI Dashboard**](https://github.com/GaneshMandre/Atlique-Grand-Hospitality-Performance) --- valuable insights to improve performance
+- [**Business Insight 360-Power BI Dashboard**](https://github.com/GaneshMandre/Business_Insights_360-Dashboard) --- data-driven insights to improve decision-making and grow business.
+- [**AtliQ Mart- Supply Chain FMCG Analysis- Power BI Dashboard**](https://github.com/GaneshMandre/AtliQ-Mart--Supply-Chain-FMCG-Dashboard) --- provides insights into supply chain efficiency and helping optimizing delivery Performance
 ## 🎯 Current Focus  
 - Enhancing my expertise in Power BI and SQL.  
 - Expanding my portfolio with real-world data projects.  
