@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 - Expanding my portfolio with real-world data projects.  
 
 ## 🤝 Let’s Connect  
-- [**LinkedIn**] - (https://www.linkedin.com/in/ganesh-m-92071616a/)  
+- [**LinkedIn**](https://www.linkedin.com/in/ganesh-m-92071616a/)  
  
 
 
