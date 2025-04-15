@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 - **Key Skills**: Data Cleaning, Visualization, DAX, Reporting  
 
 ## 📂 Featured Projects  
+- [**SQL Data Analysis-AtliQ Hardware**](https://github.com/GaneshMandre/AtliQ-Hardware-SQL-Project) -- Designed and optimized complex SQL queries to generate business insights for a multinational hardware company.
 - [**Supply Chain FMCG Analysis- Power BI Dashboard**](https://github.com/GaneshMandre/AtliQ-Mart--Supply-Chain-FMCG-Dashboard) --- provides insights into supply chain efficiency and helping optimizing delivery Performance
 - [**Business Insight 360-Power BI Dashboard**](https://github.com/GaneshMandre/Business_Insights_360-Dashboard) --- data-driven insights to improve decision-making and grow business.
 - [**Hospitality Business Performance- Power BI Dashboard**](https://github.com/GaneshMandre/Atlique-Grand-Hospitality-Performance) --- valuable insights to improve performance
